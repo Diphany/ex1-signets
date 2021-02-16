@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/depot-gh/static/css/main.bab0b925.chunk.css",
-    "main.js": "/depot-gh/static/js/main.bcd61776.chunk.js",
-    "main.js.map": "/depot-gh/static/js/main.bcd61776.chunk.js.map",
-    "runtime-main.js": "/depot-gh/static/js/runtime-main.d7ac19ce.js",
-    "runtime-main.js.map": "/depot-gh/static/js/runtime-main.d7ac19ce.js.map",
-    "static/js/2.38ffd07d.chunk.js": "/depot-gh/static/js/2.38ffd07d.chunk.js",
-    "static/js/2.38ffd07d.chunk.js.map": "/depot-gh/static/js/2.38ffd07d.chunk.js.map",
-    "index.html": "/depot-gh/index.html",
-    "static/css/main.bab0b925.chunk.css.map": "/depot-gh/static/css/main.bab0b925.chunk.css.map",
-    "static/js/2.38ffd07d.chunk.js.LICENSE.txt": "/depot-gh/static/js/2.38ffd07d.chunk.js.LICENSE.txt"
+    "main.css": "/Diphany/ex1-signets.git/static/css/main.ef18d27d.chunk.css",
+    "main.js": "/Diphany/ex1-signets.git/static/js/main.666890d1.chunk.js",
+    "main.js.map": "/Diphany/ex1-signets.git/static/js/main.666890d1.chunk.js.map",
+    "runtime-main.js": "/Diphany/ex1-signets.git/static/js/runtime-main.4299fcfa.js",
+    "runtime-main.js.map": "/Diphany/ex1-signets.git/static/js/runtime-main.4299fcfa.js.map",
+    "static/js/2.4d1c1357.chunk.js": "/Diphany/ex1-signets.git/static/js/2.4d1c1357.chunk.js",
+    "static/js/2.4d1c1357.chunk.js.map": "/Diphany/ex1-signets.git/static/js/2.4d1c1357.chunk.js.map",
+    "index.html": "/Diphany/ex1-signets.git/index.html",
+    "static/css/main.ef18d27d.chunk.css.map": "/Diphany/ex1-signets.git/static/css/main.ef18d27d.chunk.css.map",
+    "static/js/2.4d1c1357.chunk.js.LICENSE.txt": "/Diphany/ex1-signets.git/static/js/2.4d1c1357.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d7ac19ce.js",
-    "static/js/2.38ffd07d.chunk.js",
-    "static/css/main.bab0b925.chunk.css",
-    "static/js/main.bcd61776.chunk.js"
+    "static/js/runtime-main.4299fcfa.js",
+    "static/js/2.4d1c1357.chunk.js",
+    "static/css/main.ef18d27d.chunk.css",
+    "static/js/main.666890d1.chunk.js"
   ]
 }
