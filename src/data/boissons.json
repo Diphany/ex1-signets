@@ -1,0 +1,50 @@
+ [
+     {
+         "id": "prd0001",
+         "titre": "Frappé au Taro",
+         "couleur": "#7632b6",
+         "dateMod": "8 février 2021"
+     },
+     {
+        "id": "prd0002",
+        "titre": "Citron miel et menthe",
+        "couleur": "#00c1d4",
+        "dateMod": "24 décembre 2020"
+    },
+    {
+        "id": "prd0003",
+        "titre": "Thé vert à la lime",
+        "couleur": "#52c624",
+        "dateMod": "12 janvier 2020"
+    },
+    {
+        "id": "prd0004",
+        "titre": "Thé au lait original",
+        "couleur": "#008ae4",
+        "dateMod": "5 mars 2020"
+    },
+    {
+        "id": "prd0005",
+        "titre": "Frappé aux biscuits",
+        "couleur": "#d3001e",
+        "dateMod": "4 décembre 2020"
+    },
+    {
+        "id": "prd0006",
+        "titre": "Cappucino glacé",
+        "couleur": "#000000",
+        "dateMod": "9 février 2021"
+    },
+    {
+        "id": "prd0007",
+        "titre": "Pina Colada",
+        "couleur": "#f8ad0d",
+        "dateMod": "4 février 2021"
+    },
+    {
+        "id": "prd0008",
+        "titre": "Thé au lait thaïlandais",
+        "couleur": "#ff0081",
+        "dateMod": "24 février 2021"
+    }
+ ]

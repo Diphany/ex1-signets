@@ -1,0 +1,59 @@
+.Boisson {
+    width: 300px;
+    height: 329px;
+    margin: 10px;
+    padding: 5px;
+    overflow: hidden;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+    color: white;
+  
+    img {
+      width: 300px;
+      height: 200px;
+    }
+  
+    .titre {
+        margin-left: 15px;
+      font-size: 1.7em;
+      line-height: 1.2em;
+    }
+
+    .date {
+        margin-left: 15px;
+        font-size: 1.3em;
+        margin-bottom: 10px;
+    }
+  }
+
+  .Boisson:first-child {
+    background-color: #7632b6;
+}
+
+.Boisson:nth-child(2) {
+    background-color: #00c1d4;
+}
+
+.Boisson:nth-child(3) {
+    background-color: #52c624;
+}
+
+.Boisson:nth-child(4) {
+    background-color: #008ae4;
+}
+
+.Boisson:nth-child(5) {
+    background-color: #d3001e;
+}
+
+.Boisson:nth-child(6) {
+    background-color: #000000;
+}
+
+.Boisson:nth-child(7) {
+    background-color: #f8ad0d;
+}
+
+.Boisson:nth-child(8) {
+    background-color: #ff0081;
+}
